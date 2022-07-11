@@ -9,8 +9,9 @@ char c = 'a';
 System.Console.WriteLine(int.MaxValue);
 System.Console.WriteLine(double.MaxValue);
 */
-// Задача №1
-/*
+// Задача №1 1. 
+//С клавиатуры вводится целое число. Вывести квадрат числа (блок-схема)
+
 int a;
 int b;
 string? s=Console.ReadLine(); //Присваиваем стринг. ВВОД ДАННЫХ
@@ -22,7 +23,7 @@ b=a*a; // ОБРАБОТКА ДАННЫХ
 // Два способа ВЫВОД НА ЭКРАН
 Console.WriteLine("{0}^2={1}",a,b); //строка форматирования
 Console.WriteLine($"{a}^2={b}"); // строка интерполяции
-*/
+
 /*
 string? s; // объявили переменную
 s=Console.ReadLine(); // присвоили
@@ -30,6 +31,7 @@ Console.WriteLine(s);
 */
 
 // Использование дробных типов чисел, через "double"
+/*
 double a; // При вводе ЗДЕСЬ нужно дробные числа вводить через точку 
 double b;
 string? s=Console.ReadLine(); //Присваиваем стринг. ВВОД ДАННЫХ
@@ -41,3 +43,4 @@ b=a*a; // ОБРАБОТКА ДАННЫХ
 // Два способа ВЫВОД НА ЭКРАН
 Console.WriteLine("{0}^2={1}",a,b); //строка форматирования
 Console.WriteLine($"{a}^2={b}");
+*/
