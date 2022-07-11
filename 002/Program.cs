@@ -28,10 +28,13 @@ if(a*a==b); // Операция сравнения.
 {
     Console.WriteLine("b является квадратом a");
 }
-else
+
 {
     if (b*b==a)
     {
        Console.WriteLine("a является квадратом b"); 
+    }
+    {
+      Console.WriteLine("Числа не являются квадратами друг друга");  
     }
 }
