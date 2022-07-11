@@ -24,16 +24,18 @@ a=Convert.ToInt32(s);
 s=Console.ReadLine();
 b=Convert.ToInt32(s);
 // ==,!,=,<,>,<=,>=.
-if(a*a==b); // Операция сравнения. 
+// Без точки с запятой с "else"
+if(a*a==b) // Операция сравнения. 
 {
     Console.WriteLine("b является квадратом a");
 }
-
+else
 {
     if (b*b==a)
     {
        Console.WriteLine("a является квадратом b"); 
     }
+    else
     {
       Console.WriteLine("Числа не являются квадратами друг друга");  
     }
