@@ -10,8 +10,20 @@ System.Console.WriteLine(int.MaxValue);
 System.Console.WriteLine(double.MaxValue);
 */
 // Задача №1
-int a=4;
+
+int a;
 int b;
-b=a*a;
+string? s=Console.ReadLine(); //Присваиваем стринг. ВВОД ДАННЫХ
+a=Convert.ToInt32(s); // конвертируем стринг в интеджер. Позволяет вводить любое целое число вместо надписи
+b=a*a; // ОБРАБОТКА ДАННЫХ
 //Console.WriteLine(b);
-Console.WriteLine($"{a}^2={b}");
+
+// Два способа ВЫВОД НА ЭКРАН
+Console.WriteLine("{0}^2={1}",a,b); //строка форматирования
+Console.WriteLine($"{a}^2={b}"); // строка интерполяции
+
+/*
+string? s; // объявили переменную
+s=Console.ReadLine(); // присвоили
+Console.WriteLine(s);
+*/
