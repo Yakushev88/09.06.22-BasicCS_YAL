@@ -62,7 +62,7 @@ int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0;
+    int position = -1;
     while (index<count)
     {
         if(collection[index] == find)
@@ -80,8 +80,10 @@ int IndexOf(int[] collection, int find)
 int[] array = new int[10]; 
 
 FillArray(array); // метод заполнения массива
+array[4] = 4;
+array[6] = 4;
 PrintArray(array); // метод вывода на экран
 System.Console.WriteLine();
 
-int pos  = IndexOf(array, 4);
+int pos  = IndexOf(array, 444);
 System.Console.WriteLine(pos);
