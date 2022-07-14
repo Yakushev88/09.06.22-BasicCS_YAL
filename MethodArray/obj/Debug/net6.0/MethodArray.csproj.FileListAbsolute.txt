@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\bin\Debug\net6.0\MethodArray.exe
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\bin\Debug\net6.0\MethodArray.deps.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\bin\Debug\net6.0\MethodArray.runtimeconfig.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\bin\Debug\net6.0\MethodArray.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\bin\Debug\net6.0\MethodArray.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\refint\MethodArray.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\MethodArray.genruntimeconfig.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\MethodArray\obj\Debug\net6.0\ref\MethodArray.dll

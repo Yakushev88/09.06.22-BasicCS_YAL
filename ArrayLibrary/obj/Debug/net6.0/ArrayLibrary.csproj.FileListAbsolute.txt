@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.exe
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.deps.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.runtimeconfig.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\refint\ArrayLibrary.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.genruntimeconfig.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\ArrayLibrary\obj\Debug\net6.0\ref\ArrayLibrary.dll
