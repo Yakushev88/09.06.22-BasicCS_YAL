@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\bin\Debug\net6.0\Цыклы.exe
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\bin\Debug\net6.0\Цыклы.deps.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\bin\Debug\net6.0\Цыклы.runtimeconfig.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\bin\Debug\net6.0\Цыклы.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\bin\Debug\net6.0\Цыклы.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\refint\Цыклы.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\Цыклы.genruntimeconfig.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Цыклы\obj\Debug\net6.0\ref\Цыклы.dll
