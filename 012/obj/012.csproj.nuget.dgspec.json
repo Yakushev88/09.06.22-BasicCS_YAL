@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\010\\010.csproj": {}
+    "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\012\\012.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\010\\010.csproj": {
+    "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\012\\012.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\010\\010.csproj",
-        "projectName": "010",
-        "projectPath": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\010\\010.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\012\\012.csproj",
+        "projectName": "012",
+        "projectPath": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\012\\012.csproj",
         "packagesPath": "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\010\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo Legion 5\\Desktop\\Greek Brainds\\meet with programms languages\\seminar\\09.06.2022 BasicCS_YAL\\012\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo Legion 5\\AppData\\Roaming\\NuGet\\NuGet.Config"
