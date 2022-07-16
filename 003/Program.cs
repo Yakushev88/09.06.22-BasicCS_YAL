@@ -9,7 +9,7 @@ s=Console.ReadLine();
 b=Convert.ToInt32(s);
 if(a>b)
 {
-    System.Console.WriteLine(a);
+   System.Console.WriteLine(a);; 
 }
 else
 {

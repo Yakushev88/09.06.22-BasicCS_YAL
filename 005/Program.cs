@@ -41,7 +41,7 @@ if(i<N)
 System.Console.WriteLine(Max);
 */
 // Классический подход
-
+/*
 int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
@@ -69,7 +69,7 @@ int max = Max(
     Max(a2,b2,c2),
     Max(a3,b3,c3));
 System.Console.WriteLine(max);
-
+*/
 /*
 //Решение при помощи функциию. Максимальное из трех чисел
 int Max(int arg1, int arg2, int arg3);
@@ -80,6 +80,48 @@ int Max(int arg1, int arg2, int arg3);
     return result;
 }
 */
-
+/*
 // РЕШЕНИЕ ПРИ ПОМОЩИ МАССИВА
+int Max (int a, int b, int c);
+string? s=Console.ReadLine();
+a=Convert.ToInt32(s);
+s=Console.ReadLine();
+b=Convert.ToInt32(s);
+s=Console.ReadLine();
+c=Convert.ToInt32(s);
+    int result = arg1;
+    if(b> result) result = b;
+    if(c> result) result = c;
+    return result;
+//   index     0  1  2  3  4  5  6  7  8 
+int[] array = new array [8];
+//array[0] = 12;
+//System.Console.WriteLine(array[4]);
 
+int max = Max(
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8])
+);
+System.Console.WriteLine(max);
+*/
+
+// РЕШЕНИЕ
+int a,b,c;
+string? s=Console.ReadLine();
+a=Convert.ToInt32(s);
+s=Console.ReadLine();
+b=Convert.ToInt32(s);
+s=Console.ReadLine();
+c=Convert.ToInt32(s);
+int m = a;
+if(b>a)
+{
+   m = b; 
+}
+else
+{
+    if(c>a)
+    m=c;
+}
+System.Console.WriteLine(m);

@@ -1,5 +1,5 @@
 ﻿// Решение задач с нахождением максимального числа 
-//из N after array (Массив)
+//из N через array (Массив)
 
 int Max(int arg1, int arg2, int arg3)
 {
@@ -9,7 +9,7 @@ int Max(int arg1, int arg2, int arg3)
     return result;
 }
 //   index     0  1  2  3  4  5  6  7  8 
-int[] array = {11,213,13,145,15,610,17,182,19};
+int[] array = {11,2123,13,145,15,610,17,1823,19};
 //array[0] = 12;
 //System.Console.WriteLine(array[4]);
 
