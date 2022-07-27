@@ -46,6 +46,7 @@ Console.WriteLine($"{a} {b}");
 // При создании переменных в подпрограмме, но в а и в 
 // поместиться адрес переменных таких же.
 // модификатор ref- позволяет написать подпрограммы для изменния(замены) значений переменных.
+/*
 void Swap(ref int a, ref int b) //Создали подпрограмму
 {
     int t=a;
@@ -62,12 +63,12 @@ int a,b,sum=0,sub=0;
 a=1;
 b=2;
 Calc(a,b,ref sum,ref sub);
-/*
+
 System.Console.WriteLine($"{a} {b}");
 Swap(ref a,ref b); // Обратились к подпрограмме
 Console.WriteLine($"{a} {b}");
 */
-
+/*
 // Что бы вернуть переменные, поскольку исползовали void
 // причем раздых типов данных (int, double и проче)
 // используем команду - OUT
@@ -83,7 +84,18 @@ void Calc(int a, int b, out int sum, out int sub)
     sum=a+b;
     sub=a-b;
 }
+*/
+//int n=Convert.ToInt32(Console.Readline());
+//int n= int.Parse(Console.Readline());
+
+string s =Console.Readline();
+int n;
+bool f;
+f=int.TryParse(s, out n);
+System.Console.WriteLine(n);
+/*
 int a,b,sum=0,sub=0;
 a=1;
 b=2;
 Calc(a,b,out sum,out sub);
+*/
