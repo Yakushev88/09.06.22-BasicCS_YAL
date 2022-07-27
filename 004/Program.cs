@@ -77,3 +77,4 @@ int numbersDoF= Convert.ToInt32(Console.ReadLine());
 // Задаем строковой массивю Сразу наполнили.
 string[] weekDays = new string[] {"Monday" , "Tuesday" , "Wednesday" , "Thurstday" ,"Friday" , "Saturday" ," Sunday" ,};
 System.Console.WriteLine(weekDays[numbersDoF-1]);
+// -1, т.к массив индексируется с 0
