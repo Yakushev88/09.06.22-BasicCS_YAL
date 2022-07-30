@@ -88,11 +88,20 @@ void Calc(int a, int b, out int sum, out int sub)
 //int n=Convert.ToInt32(Console.Readline());
 //int n= int.Parse(Console.Readline());
 
-string s =Console.Readline();
+//Защита от неправильного ввода
+string s;
 int n;
 bool f;
-f=int.TryParse(s, out n);
+do
+{
+    s =Console.ReadLine();
+    f=int.TryParse(s, out n);
+    if (f==false) System.Console.WriteLine("Wrong input");
+}
+while (f==false);
 System.Console.WriteLine(n);
+
+
 /*
 int a,b,sum=0,sub=0;
 a=1;
