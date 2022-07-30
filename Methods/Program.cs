@@ -136,14 +136,25 @@ void PrintArray(int[] array)
 
 void SelectionSort(int[] array)// Программа сортировки массива
 {
-    for (int i=0; i < array.Length; i++)
+    for (int i=0; i < array.Length-1; i++)
     {
         int minPosition = i; //Запоминаем позицию рабочего элемента
         //  с которой будем производить действия в дальнейшем
+        for (int j=i+1; j < array.Length; j++ )// Часть кодаб жля поиска максимальног элемента
+        // 3-ри строки ниже
+        {
+            if (array[j]<array[minPosition]) minPosition= j;
+        }
 
-        int temporary = array[i];
-        array[i]=a
+
+        int temporary = array[i]; // временный элемент
+        array[i]=array[minPosition];
+        array[minPosition]= temporary;
+
     }
 }
+
+PrintArray(arr);
+SelectionSort(arr);
 
 PrintArray(arr);
