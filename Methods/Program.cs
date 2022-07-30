@@ -119,8 +119,8 @@ System.Console.WriteLine();
 newText = Replace(newText, 'С', 'с');
 System.Console.WriteLine(newText);
 */
-
-// Сортировка массива
+/*
+// Сортировка массива по возрастанию
 int[] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1};
 // далее написать подпрограмму, 
 // которая выводит массив на экран
@@ -150,6 +150,49 @@ void SelectionSort(int[] array)// Программа сортировки мас
         int temporary = array[i]; // временный элемент
         array[i]=array[minPosition];
         array[minPosition]= temporary;
+
+    }
+}
+
+PrintArray(arr);
+SelectionSort(arr);
+
+PrintArray(arr);
+
+*/
+// Упорядочевание массива в обратную сторону
+// по убыванию
+
+// Сортировка массива по убыванию
+int[] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1};
+// далее написать подпрограмму, 
+// которая выводит массив на экран
+void PrintArray(int[] array)
+{
+    int count = array.Length;
+    for (int i=0; i< count; i++) // пробегаем по всем элементам массива 
+    {
+        System.Console.Write($"{array[i]}");
+    }
+    System.Console.WriteLine();
+}
+
+void SelectionSort(int[] array)// Программа сортировки массива
+{
+    for (int i=0; i < array.Length-1; i++)
+    {
+        int maxPosition = i; //Запоминаем позицию рабочего элемента
+        //  с которой будем производить действия в дальнейшем
+        for (int j=i+1; j < array.Length; j++ )// Часть кода для поиска максимальног элемента
+        // 3-ри строки ниже
+        {
+            if (array[j]>array[maxPosition]) maxPosition= j;
+        }
+
+
+        int temporary = array[i]; // временный элемент
+        array[i]=array[maxPosition];
+        array[maxPosition]= temporary;
 
     }
 }
