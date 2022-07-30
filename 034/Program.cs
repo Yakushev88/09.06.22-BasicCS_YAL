@@ -75,7 +75,7 @@ int[] a=new int[N];
 Random random=new Random();// Вводит случайные числа в тело массива 
 for (int i=0; i<a.Length; i++)
     a[i]=random.Next(-9,10);
-
+//решение задачи
 int sumPositive=0;
 for (int i=0; i<a.Length; i++)
     if (a[i]>0)

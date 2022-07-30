@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\bin\Debug\net6.0\040.exe
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\bin\Debug\net6.0\040.deps.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\bin\Debug\net6.0\040.runtimeconfig.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\bin\Debug\net6.0\040.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\bin\Debug\net6.0\040.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\refint\040.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\040.genruntimeconfig.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\040\obj\Debug\net6.0\ref\040.dll
