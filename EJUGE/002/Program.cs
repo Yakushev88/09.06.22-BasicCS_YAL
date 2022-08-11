@@ -13,7 +13,7 @@ string s=Console.ReadLine(); //Вторая строка для ввода
 string[] ss=s.Split(' ');
 int[] a=Array.ConvertAll<string,int>(ss, int.Parse);
 for (int i=0; i< a.Length; i++)
-    if (a[i] %2 ! = 0)
+    if (a[i]%2! = 0)
     System.Console.WriteLine($"{a[i]}");
 
 for (int j=0; j< a.Length; j++)
