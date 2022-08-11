@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.exe
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.deps.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.runtimeconfig.json
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\refint\RecursionAlgorithm.dll
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.pdb
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.genruntimeconfig.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\RecursionAlgorithm\obj\Debug\net6.0\ref\RecursionAlgorithm.dll
