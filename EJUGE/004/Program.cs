@@ -27,7 +27,7 @@ for(int i=0;i<a.Lenght; i++)
 }
 System.Console.WriteLine(k);
 */
-
+/*
 int n=int.Parse(Console.ReadLine()); 
 string s="1 5 8 5 5";//Console.ReadLine();
 string[] ss=s.Split(' ');
@@ -38,4 +38,18 @@ for(int i=0;i<5; i++)
         if (a[i]==a[j])
             k++;
 
+System.Console.WriteLine(k);
+*/
+
+
+// Вводиться число N, а затем - N чисел. Определитьб сколько 
+// среди них пар одинаковых чисел.
+int n=int.Parse(Console.ReadLine()); 
+string s=Console.ReadLine();
+string[] ss=s.Split(' ',StringSplitOptions.RemoveEmptyEntries);
+int[] a=Array.ConvertAll<string,int>(ss, int.Parse);
+int k=0;
+for(int i=0;i<a.Length-1; i++)
+        if (a[i]==a[i+1])
+            k++;
 System.Console.WriteLine(k);
