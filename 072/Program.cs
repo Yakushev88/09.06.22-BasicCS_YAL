@@ -6,6 +6,6 @@ int b=4;
 int P(int a, int b)
 {
     if (b==0) return 1;
-    else return P(a,b-1)*a;
+    else return P(a,b-1)*a;// цыклично???
 }
 System.Console.WriteLine(P(a,b));
