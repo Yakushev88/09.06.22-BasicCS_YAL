@@ -1,0 +1,5 @@
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Recursy_Draw\Form1\obj\Debug\net6.0\Form1.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Recursy_Draw\Form1\obj\Debug\net6.0\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Recursy_Draw\Form1\obj\Debug\net6.0\Form1.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Recursy_Draw\Form1\obj\Debug\net6.0\Form1.AssemblyInfo.cs
+C:\Users\Lenovo Legion 5\Desktop\Greek Brainds\meet with programms languages\seminar\09.06.2022 BasicCS_YAL\Recursy_Draw\Form1\obj\Debug\net6.0\Form1.csproj.CoreCompileInputs.cache
