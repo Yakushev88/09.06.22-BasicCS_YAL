@@ -7,4 +7,5 @@ int P(int M, int N)
     if (M==N) return M;
     else return P(M+1,N)+ M;
 }
-System.Console.WriteLine(P(1,10));
+System.Console.WriteLine(P(1,8));
+// Подстановкой выполняем
